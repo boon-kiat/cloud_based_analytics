@@ -13,7 +13,7 @@ WQD7009 Big Data Applications and Analytics
 | Then Tsze Yen | S2194020 |
 
 ### Problem Statement:
-Propose a cloud-based data analytics framework for global econonomy dataset. The framework should cover various layers of the data lifecycle process, including data ingestion, storage, processing, analytics, visualization, and other layers based on your project's requirements.
+Propose a cloud-based data analytics framework for global economy dataset. The framework should cover various layers of the data lifecycle process, including data ingestion, storage, processing, analytics, visualization, and other layers based on your project's requirements.
 
 ### Objective:
 - To perform data lifecycle processes using different cloud-based tools throughout the data lifecycle framework.
@@ -24,7 +24,7 @@ Propose a cloud-based data analytics framework for global econonomy dataset. The
 - “World Export & Import Dataset (1989-2023)” dataset on [Kaggle](https://www.kaggle.com/datasets/muhammadtalhaawan/world-export-and-import-dataset/data)
 - Contain information on international trade and trade policies with 33 features and 8096 rows.
 
-### Tools:
+### Cloud Computing Platform:
 - Google Cloud Platform (GCP)
 
 ### Methodology:
