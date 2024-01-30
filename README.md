@@ -1,4 +1,4 @@
-## Cloud-based Data Analytics Framework for Global Econmony Dataset
+## Cloud-based Data Analytics Framework for Global Economy Dataset
 
 ### Module:
 WQD7009 Big Data Applications and Analytics
