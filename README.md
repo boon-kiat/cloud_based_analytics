@@ -24,6 +24,9 @@ Propose a cloud-based data analytics framework for global econonomy dataset. The
 - “World Export & Import Dataset (1989-2023)” dataset on [Kaggle](https://www.kaggle.com/datasets/muhammadtalhaawan/world-export-and-import-dataset/data)
 - Contain information on international trade and trade policies with 33 features and 8096 rows.
 
+### Tools:
+- Google Cloud Platform (GCP)
+
 ### Methodology:
 - Data ingestion using Google Cloud Storage
 - Data storage using BigQuery
